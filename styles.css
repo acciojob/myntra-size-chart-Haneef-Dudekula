@@ -12,10 +12,10 @@ td{
 	/* align-content:right; */
 	text-align:right;
 }
-th{
+th, #header{
 	text-align:left;
-	/* color:white; */
 }
+
 thead{
 	background-color:#c84646;
 	color:white;
